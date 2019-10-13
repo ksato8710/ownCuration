@@ -7,8 +7,10 @@
 * Google Trend の急上昇ワードの収集
 
 # その他メモ
+* スマホアプリ作成の経験値を積む
 * Google Analyticks を利用する
 * Firebase を利用する
+* IaC の経験値を積む
 
 # 技術スタック
 * フロントエンドは React 
