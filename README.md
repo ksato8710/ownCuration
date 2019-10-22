@@ -24,7 +24,7 @@
 * サーバサイドは java8
 
 # AWSメモ
-・以下のURLにアクセス
+・以下のURLにアクセス  
 https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:sort=instanceType
 
 ・conn_test_1 に AWSコンソール から接続
