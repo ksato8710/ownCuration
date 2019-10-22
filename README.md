@@ -40,6 +40,5 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#
 * Google Analytics, Firebase を を導入する
 * 自分が時間空いたときにまず見るアプリとして、必要なコンテンツを揃えていく
 
-
-
-
+# 過去実施したことメモ
+2019/10/23 以前作成した取引ツールはZaif限定。アービトラージツールも作りかけあり。現状整理からしなおしか。 
