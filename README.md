@@ -39,6 +39,7 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#
 * スマホアプリのコンテンツとして、何かしらのAPIを定期的にたたいて、照会する機能を作成する（react）
 * Google Analytics, Firebase を を導入する
 * 自分が時間空いたときにまず見るアプリとして、必要なコンテンツを揃えていく
+* アプリにする際はMONACA使えるかも。試してみる
 
 # 過去実施したことメモ
 2019/10/23 以前作成した取引ツールはZaif限定。アービトラージツールも作りかけあり。現状整理からしなおしか。 
