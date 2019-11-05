@@ -43,3 +43,4 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#
 
 # 過去実施したことメモ
 2019/10/23 以前作成した取引ツールはZaif限定。アービトラージツールも作りかけあり。現状整理からしなおしか。 
+2019/11/05 ツールを動かしてみようとしたが、zaifAPIのライブラリの中でエラー。呼び出し方が変わったのかもしれない？
