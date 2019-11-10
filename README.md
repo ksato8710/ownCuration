@@ -42,6 +42,8 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#
 ・対象サーバに接続
 　ssh -i .ssh/secondKey.pem ec2-user@172.31.19.47
 
+2019/11/10
+・conn_test_3 にすべてのデータを移動した。今後は、このサーバに接続すればOK。ほかのサーバは基本的に起動不要
 
 # 進め方
 * スマホアプリを最もプアな形でいいので作成して、自身のAndroidスマホにインストールする
